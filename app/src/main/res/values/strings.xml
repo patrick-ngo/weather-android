@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_locations">94125.1.99999</string>
+    <string name="search_placeholder">Enter Location</string>
+    <string name="temperature_celcius">°C</string>
+    <string name="temperature_farenheight">°F</string>
+    <string name="max_cities">Maximum locations added</string>
+    <string name="remove_location">Remove Location</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_mostly_cloudy">Mostly Cloudy</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_hail">Hail</string>
+    <string name="weather_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_fog">Fog</string>
+    <string name="weather_partial_fog">Partial Fog</string>
+    <string name="weather_snow">Snow</string>
+    <string name="weather_thunderstorm">Thunderstorms</string>
+</resources>
